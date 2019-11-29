@@ -1,6 +1,6 @@
 # Terraform Config with AWS
 
-Basic configuration to provision an EC2 instance with terraform
+Basic configuration to provision an EC2 instance with terraform and remote state on AWS S3
 
 ## Steps to provision
 
